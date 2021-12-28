@@ -1,5 +1,7 @@
 <h2 align="center">🌊2021 JOISS 해양과학 빅데이터 활용 경진대회<br><br>🌿갯끈풀 발생 영향 변수 도출 및 갯벌별 위험등급 산출</h2>
 
+<p align = "center"><img src = "README Images/상장.png" width = "400" height = "500"></p>
+
 <h2>🌿 1. 개요</h2>
 
 - 공모전: 2021년 해양수산부에서 주최한 [2021 JOISS 해양과학 빅데이터 활용 경진대회](https://dacon.io/competitions/official/235793/overview/description)
