@@ -1,3 +1,7 @@
 .ipynb_checkpoints
+
 .DS_Store
+
 logs.log
+
+ServiceKey.txt
