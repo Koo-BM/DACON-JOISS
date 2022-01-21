@@ -41,7 +41,7 @@
 
 <h2>🌿 4. 분석 프로세스</h2>
 
-<p align = "center"><img src = "README Images/4. 프로세스.JPG" width = "1000" height = "400"></p>
+<p align = "center"><img src = "README Images/4. 프로세스.JPG" width = "1000" height = "300"></p>
 
 <h2>🌿 5. 분석 내용</h2>
 
