@@ -81,7 +81,7 @@
 
 - 군집분석(K-Means) 수행 후, 각 군집 특성을 파악하여 위험등급 설정
 
-<img src = "README Images/12. 군집결과.JPG" width = "600" height = "100">
+<img src = "README Images/12. 군집결과.JPG" width = "600" height = "200">
 
 <h2>🌿 6. 분석 결과</h2>
 
