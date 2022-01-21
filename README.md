@@ -49,7 +49,7 @@
 
 - 해양특성평가격자(약 5km)를 세분한 후, 갯벌 공간정보와 JOIN하여 1,399개의 격자 생성
 
-<p align = "center"><img src = "README Images/5. 격자.JPG" width = "1000" height = "400"></p>
+<p align = "center"><img src = "README Images/5. 격자.JPG" width = "800" height = "400"></p>
 
 - 해양데이터 특성상 모든 격자에 변수 값이 존재하지 않기 때문에 IDW 보간기법 사용
 
