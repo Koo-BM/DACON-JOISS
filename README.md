@@ -19,7 +19,7 @@
 
 <h2>🌿 2. 분석 배경</h2>
 
-<p align = "center"><img src = "README Images/2. 갯끈풀.jpg" width = "400" height = "550"></p>
+<p align = "center"><img src = "README Images/2. 갯끈풀.jpg" width = "400" height = "400"></p>
 
 - 세계자연보전연맹(IUCN)에서 지정한 100대 악성 위해 외래 식물
 
