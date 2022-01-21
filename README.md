@@ -85,7 +85,7 @@
 
 <h2>🌿 6. 분석 결과</h2>
 
-<p align = "center"><img src = "README Images/14. 최종.gif" width = "400" height = "550"></p>
+<p align = "center"><img src = "README Images/14. 최종.gif" width = "800" height = "300"></p>
 
 - 1등급 | 최고 위험 등급 | 86개
 
@@ -95,7 +95,7 @@
 
 - 4등급 | 최고 안정 등급 | 387개
 
-<p align = "center"><img src = "README Images/13. 1등급.JPG" width = "400" height = "550"></p>
+<p align = "center"><img src = "README Images/13. 1등급.JPG" width = "1000" height = "350"></p>
 
 - 최고 위험 등급 지역은 위와 같이 산출됨
 <h2>🌿 7. 참고 문헌</h2>
