@@ -61,13 +61,13 @@
 
 - 20개의 변수(수온, 질소, 생체량, 규산염 등)의 히스토그램과 Box Plot을 통해 왜도, 첨도, 이상치 개수 비교
 
-<img src = "README Images/8. PCA.JPG" width = "1000" height = "350">
+<img src = "README Images/8. PCA.JPG" width = "1000" height = "375">
 
 - 위 과정을 통해 선정된 13개의 변수(질소, 염분, 투명도 등) 상관분석
 
 - 상관성이 높은 6개의 변수(질소, 부유물질 농도, 규산염, 화학적산소 요구량, 투명도, 총인)로 주성분분석(PCA) 실시
 
-<img src = "README Images/9. RF.JPG" width = "1000" height = "400">
+<img src = "README Images/9. RF.JPG" width = "1000" height = "350">
  
 - Random Forest 모델의 변수 중요도를 통한 갯끈풀 영향 변수 선택
 
