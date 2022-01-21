@@ -41,7 +41,7 @@
 
 <h2>🌿 4. 분석 프로세스</h2>
 
-<p align = "center"><img src = "README Images/4. 프로세스.JPG" width = "400" height = "550"></p>
+<p align = "center"><img src = "README Images/4. 프로세스.JPG" width = "1000" height = "400"></p>
 
 <h2>🌿 5. 분석 내용</h2>
 
@@ -49,39 +49,39 @@
 
 - 해양특성평가격자(약 5km)를 세분한 후, 갯벌 공간정보와 JOIN하여 1,399개의 격자 생성
 
-<p align = "center"><img src = "README Images/5. 격자.JPG" width = "400" height = "550"></p>
+<p align = "center"><img src = "README Images/5. 격자.JPG" width = "1000" height = "400"></p>
 
 - 해양데이터 특성상 모든 격자에 변수 값이 존재하지 않기 때문에 IDW 보간기법 사용
 
-<p align = "center"><img src = "README Images/6. IDW.JPG" width = "400" height = "550"></p>
+<p align = "center"><img src = "README Images/6. IDW.JPG" width = "1000" height = "400"></p>
 
 ### 2. EDA
 
-<img src = "README Images/7. EDA.JPG" width = "400" height = "550">
+<img src = "README Images/7. EDA.JPG" width = "1000" height = "400">
 
 - 20개의 변수(수온, 질소, 생체량, 규산염 등)의 히스토그램과 Box Plot을 통해 왜도, 첨도, 이상치 개수 비교
 
-<img src = "README Images/8. EDA.JPG" width = "400" height = "550">
+<img src = "README Images/8. EDA.JPG" width = "1000" height = "400">
 
 - 위 과정을 통해 선정된 13개의 변수(질소, 염분, 투명도 등) 상관분석
 
 - 상관성이 높은 6개의 변수(질소, 부유물질 농도, 규산염, 화학적산소 요구량, 투명도, 총인)로 주성분분석(PCA) 실시
 
-<img src = "README Images/9. RF.JPG" width = "400" height = "550">
+<img src = "README Images/9. RF.JPG" width = "1000" height = "400">
  
 - Random Forest 모델의 변수 중요도를 통한 갯끈풀 영향 변수 선택
 
 ### 3. 데이터 모델링
 
-<img src = "README Images/10. 모델링.JPG" width = "400" height = "550">
+<img src = "README Images/10. 모델링.JPG" width = "1000" height = "400">
 
 - Logistic Regression을 통한 각 변수의 가중치 설정 (+ 유의하지 않은 변수 제거)
 
-<img src = "README Images/11. 군집.JPG" width = "400" height = "550">
+<img src = "README Images/11. 군집.JPG" width = "1000" height = "400">
 
 - 군집분석(K-Means) 수행 후, 각 군집 특성을 파악하여 위험등급 설정
 
-<img src = "README Images/12. 군집결과.JPG" width = "400" height = "550">
+<img src = "README Images/12. 군집결과.JPG" width = "1000" height = "400">
 
 <h2>🌿 6. 분석 결과</h2>
 
