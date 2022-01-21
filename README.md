@@ -73,15 +73,15 @@
 
 ### 3. 데이터 모델링
 
-<img src = "README Images/10. 모델링.JPG" width = "1000" height = "400">
+<img src = "README Images/10. 모델링.JPG" width = "1000" height = "350">
 
 - Logistic Regression을 통한 각 변수의 가중치 설정 (+ 유의하지 않은 변수 제거)
 
-<img src = "README Images/11. 군집.JPG" width = "1000" height = "400">
+<img src = "README Images/11. 군집.JPG" width = "1000" height = "350">
 
 - 군집분석(K-Means) 수행 후, 각 군집 특성을 파악하여 위험등급 설정
 
-<img src = "README Images/12. 군집결과.JPG" width = "1000" height = "400">
+<img src = "README Images/12. 군집결과.JPG" width = "600" height = "100">
 
 <h2>🌿 6. 분석 결과</h2>
 
