@@ -85,7 +85,7 @@
 
 <h2>🌿 6. 분석 결과</h2>
 
-<p align = "center"><img src = "README Images/14. 최종.gif" width = "600" height = "300"></p>
+<p align = "center"><img src = "README Images/14. 최종.gif" width = "600" height = "600"></p>
 
 - 1등급 | 최고 위험 등급 | 86개
 
