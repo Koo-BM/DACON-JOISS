@@ -61,7 +61,7 @@
 
 - 20개의 변수(수온, 질소, 생체량, 규산염 등)의 히스토그램과 Box Plot을 통해 왜도, 첨도, 이상치 개수 비교
 
-<img src = "README Images/8. PCA.JPG" width = "1000" height = "400">
+<img src = "README Images/8. PCA.JPG" width = "1000" height = "350">
 
 - 위 과정을 통해 선정된 13개의 변수(질소, 염분, 투명도 등) 상관분석
 
