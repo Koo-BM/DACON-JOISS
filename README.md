@@ -31,7 +31,7 @@
 
 - 무엇보다도 빠른 번식력이 문제
 
-<img src = "README Images/3. 갯끈풀 서식.JPG" width = "1000" height = "350">
+<img src = "README Images/3. 갯끈풀 서식.JPG" width = "1000" height = "375">
 
 <h2>🌿 3. 분석 목표</h2>
 
